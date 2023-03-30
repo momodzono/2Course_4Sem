@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <num>34567</num>
+  <type_>Сберегательный</type_>
+  <DateofOpen>24.3.2023</DateofOpen>
+  <sms>Подключить</sms>
+  <intern>Выключено</intern>
+  <owners>
+    <Owner>
+      <name>dfghj</name>
+      <birthDay>24 марта 2023 г.</birthDay>
+      <sex>Жен.</sex>
+      <passport>23456</passport>
+      <date>24 марта 2023 г.</date>
+      <vydan>dfghj</vydan>
+      <adress>sdfghj</adress>
+      <numbt>3456</numbt>
+    </Owner>
+  </owners>
+  <balans>2345</balans>
+</Bank>
